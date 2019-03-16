@@ -14,7 +14,7 @@ class Anagram
         matches_array << anagram
       end 
     end 
-    
+    matches_array
   end 
 
 
