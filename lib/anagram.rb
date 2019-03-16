@@ -1,6 +1,6 @@
 class Anagram
 
-def match(anagram_list)
+def match(anagram_array)
 
 end 
 
